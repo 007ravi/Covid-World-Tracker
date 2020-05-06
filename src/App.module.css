@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(231, 233, 218);
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.image{
+    width: 380px;
+    margin-top: 50px;
+}
